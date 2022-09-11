@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://kitsunne.github.io/rsschool-cv/cv.md
+https://kitsunne.github.io/rsschool-cv/cv
